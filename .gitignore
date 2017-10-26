@@ -1,0 +1,5 @@
+__pycache__/
+flickr_solved.py
+config.py
+cache_file.json
+*.py[oc]
