@@ -1,4 +1,4 @@
-#
+# Flickr and GitHub Collaboration
 
 - [ ] Signup for `flickr` API key: https://www.flickr.com/services/api/
 - [ ] Create `config.py` based on `data/config_template.py`, and set the FLICKR_API_KEY
